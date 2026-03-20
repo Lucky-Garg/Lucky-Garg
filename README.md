@@ -7,7 +7,6 @@
 ### 🧠 About Me
 - 🎓 3rd-year **B.Tech CSE** student  
 - 💡 Passionate about **problem solving** and **exploring new technologies**  
-- 🚀 Currently diving into **DevOps**  
 - 🌱 Always eager to **learn, build, and grow**
 
 ---
