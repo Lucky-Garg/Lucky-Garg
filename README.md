@@ -5,7 +5,7 @@
 ---
 
 ### 🧠 About Me
-- 🎓 3rd-year **B.Tech CSE** student  
+- 🎓 Final Year  **B.Tech CSE** student  
 - 💡 Passionate about **problem solving** and **exploring new technologies**  
 - 🌱 Always eager to **learn, build, and grow**
 
